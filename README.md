@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itpapryk
+- 👋 Hi, I’m @itspapryk
 - 👀 I’m interested in sport
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my learning space
